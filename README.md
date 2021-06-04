@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning how to create website
 - 💞️ I’m looking to collaborate on back-end programming
-- 📫 How to reach me on email olaredenish@yahoo.complete
+- 📫 How to reach me on email olaredenish@yahoo.com
 
 <!---
 olare1995/olare1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
